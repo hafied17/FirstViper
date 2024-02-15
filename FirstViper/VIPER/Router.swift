@@ -10,6 +10,7 @@ import UIKit
 
 // object
 // entry point
+//
 
 typealias EntryPoint = AnyView & UIViewController
 
